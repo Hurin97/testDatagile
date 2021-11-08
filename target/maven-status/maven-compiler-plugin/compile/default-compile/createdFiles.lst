@@ -1,0 +1,10 @@
+service\impl\UserServiceImpl.class
+service\dao\SimpleDAO.class
+service\model\User.class
+settings\ApplicationPropertyReader.class
+settings\AppConfig.class
+service\UserService.class
+web\controllers\UserController.class
+settings\AppConfig$1.class
+service\dao\impl\SimpleDAOImpl.class
+web\controllers\impl\UsersControllerImpl.class
